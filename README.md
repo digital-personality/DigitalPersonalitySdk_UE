@@ -5,6 +5,10 @@
 
 使用过程中遇到任何问题请在[Issues页面](https://github.com/digital-personality/DigitalPersonalitySdk_UE/issues)提交.
 ## 更新日志：
+### v0.0.3
+- 补上一个Content/AINPC_Animations/normal_male_default_idle.uasset，必须的待机动画文件
+- 增加一个SDK Demo工程，里面做好了到Metahuman的重定向。
+
 ### v0.0.2
 - 增加5.4.3支持
 - 发布二进制版本插件，无需编译即可使用
